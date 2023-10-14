@@ -10,7 +10,7 @@ Terraform v1.6.1
 ```
 
 ## AWS CLIのインストール
-1. <>から、インストール。詳細は割愛。
+1. <https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html>を参考に、インストール。詳細は割愛。
 
 1. インストールを確認
 	```
