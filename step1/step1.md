@@ -28,8 +28,8 @@
 
 		  [profile Kazu_IAMuser]
 		  region = ap-northeast-1
-		  mfa_serial = arn:aws:iam::468415095331:mfa/Kazu_IAMuser
-		  role_arn = arn:aws:iam::468415095331:role/aws_mfa_sts_assumerole
+		  mfa_serial = arn:aws:iam::<アカウント名>:mfa/Kazu_IAMuser
+		  role_arn = arn:aws:iam::<アカウント名>:role/aws_mfa_sts_assumerole
 		  source_profile = default
 		  output = json
 		  ```
